@@ -6,6 +6,6 @@
 DerivedData/
 Pods/
 project.xcworkspace/
-xcuserdata/
-xcshareddata/
+*xcuserdata/*
+*xcshareddata/*
 
