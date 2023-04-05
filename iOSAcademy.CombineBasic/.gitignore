@@ -1,0 +1,11 @@
+## 根據chatGPT的推薦，建立ignore的項目
+
+.DS_Store
+*.xcuserstate
+*.pbxuser
+DerivedData/
+Pods/
+project.xcworkspace/
+xcuserdata/
+xcshareddata/
+
